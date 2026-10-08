@@ -111,6 +111,15 @@ Current areas of interest include:
 
 ---
 
+## 🤝 Leadership & Activities
+
+* **Perception Engineer — [Bit-Bots](https://www.h-brs.de/en/a2s/b-it-bots)** · Bonn, Germany · 09/2022 – 06/2024
+  Robotic perception, computer vision, HRI & autonomous systems
+
+* **Co-CEO — Reptilian Robotics** · Punjab, India · 10/2019 – 05/2021
+  Autonomous drones, robotic arms, rovers & AI/robotics workshops
+---
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/melvin-paul-jacob/)
