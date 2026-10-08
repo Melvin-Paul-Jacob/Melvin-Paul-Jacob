@@ -1,23 +1,87 @@
-## Hi there 👋
+# Hi there, I'm Melvin 👋
 
-# 💫 About Me:
-# Hi, I'm Melvin 👋<br><br>I'm a **Computer Vision & AI Engineer** with ~5 years of experience building and deploying **real-time perception systems for robotics and industrial applications**.<br><br>🤖 **Interests:** Computer Vision · Deep Learning · Robotics · 3D Perception · Edge AI · Autonomous Systems<br><br>🛠️ **Tech:** Python · PyTorch · TensorFlow · OpenCV · NVIDIA Jetson · Docker · Isaac Sim · LiDAR · 3D Vision<br><br>🚀 I enjoy turning research and ideas into **production-ready AI systems**, particularly in robotic perception, object detection & segmentation, sensor fusion, and real-time AI.<br><br>🏆 European Robotics League — **1st Place (2023)**<br>📚 Research published at **IROS 2024** and RoboCup Symposium 2024<br><br>Currently building intelligent perception and automation systems for real-world robotics.<br>
+### Computer Vision & AI Engineer | Robotics | 3D Perception | Edge AI
 
+I’m a **Computer Vision & AI Engineer** with ~5 years of experience building and deploying **real-time perception systems for robotics and industrial applications**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/melvin-paul-jacob) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:melvinpauljacob7@gmail.com) 
+My work spans **3D vision, deep learning, robotic perception, object detection & segmentation, sensor fusion, and edge AI**, with a focus on taking research and ideas into reliable, production-ready systems.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Melvin-Paul-Jacob&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Melvin-Paul-Jacob&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Melvin-Paul-Jacob&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🔭 What I Work On
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Melvin-Paul-Jacob&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+* 🤖 **Robotic Perception & Autonomous Systems**
+* 👁️ **Computer Vision & 3D Vision**
+* 🧠 **Deep Learning & AI**
+* 📦 **Object Detection, Semantic / Instance / Panoptic Segmentation**
+* 📡 **LiDAR, Cameras & Sensor Fusion**
+* ⚡ **Real-time & Edge AI**
+* 🏭 **Industrial Robotics & Automation**
+* 🧩 **Digital Twins & Simulation**
+
+### 🛠️ Tech Stack
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+**AI & Computer Vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+**Robotics & Deployment**
+
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
+
+### 🏆 Highlights
+
+* 🥇 **1st Place — European Robotics League 2023**
+* 🥈 **2nd Place — Heart-MET Competition 2023**
+* 📄 Research published at **IEEE/RSJ IROS 2024**
+* 📄 Research published at **RoboCup Symposium 2024**
+* 🤖 Experience developing perception systems for **industrial, agricultural, assistive, and autonomous robotics**
+
+### 📚 Research & Interests
+
+I’m particularly interested in the intersection of **AI and physical systems** — building machines that can perceive, understand, and interact with the real world.
+
+Current areas of interest include:
+
+`3D Perception` · `Panoptic Segmentation` · `Sensor Fusion` · `Edge AI` · `Physical AI` · `Active Perception` · `Robot Learning` · `Autonomous Systems`
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/melvin-paul-jacob/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://melvin-paul-jacob.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:melvinpaul123@gmail.com)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Melvin-Paul-Jacob&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Activity
+
+![](https://github-readme-stats.shion.dev/api?username=Melvin-Paul-Jacob\&show_icons=true\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=Melvin-Paul-Jacob\&theme=dark\&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Melvin-Paul-Jacob\&theme=dark\&hide_border=true\&include_all_commits=true\&count_private=true\&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Melvin-Paul-Jacob\&theme=darkhub\&no-frame=true\&no-bg=true\&margin-w=4)
+
+---
+
+<p align="center">
+  <i>Building intelligent machines that can see, understand, and act in the real world.</i>
+</p>
