@@ -89,6 +89,18 @@ My work spans **3D vision, deep learning, robotic perception, object detection &
 
 ---
 
+## 📚 Publications
+
+* **Planning Robot Placement for Object Grasping**
+  *RoboCup Symposium 2024*
+  🔗 [Springer](https://link.springer.com/chapter/10.1007/978-3-031-85859-8_23)
+
+* **HortiBot: An Adaptive Multi-Arm System for Robotic Horticulture of Sweet Peppers**
+  *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)*
+  🔗 [IEEE Xplore](https://ieeexplore.ieee.org/document/10802082)
+
+---
+
 ## 📚 Research & Interests
 
 I’m particularly interested in the intersection of **AI and physical systems** — building machines that can perceive, understand, and interact with the real world.
