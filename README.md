@@ -37,8 +37,7 @@ My work spans **3D vision, deep learning, robotic perception, object detection &
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
 
-**Deep Learning:**
-`CNNs` · `YOLO` · `Transfer Learning` · `Hyperparameter Tuning` · `Model Optimization` · `Quantization` · `Model Deployment`
+`CNNs` · `YOLO` · `Transfer Learning` · `Hyperparameter Tuning` · `Model Optimization` · `Quantization` · `Model Deployment` · `Semantic Segmentation` · `Instance Segmentation` · `Panoptic Segmentation` · `Sparse Convolution` · `GANs` · `Vision Transformers` 
 
 ### 👁️ Computer Vision
 
@@ -47,25 +46,14 @@ My work spans **3D vision, deep learning, robotic perception, object detection &
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge\&logo=scipy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
-**Computer Vision:**
-`Image Processing` · `3D Vision` · `Feature Extraction` · `Pattern Recognition` · `Object Detection` · `Object Tracking` · `OCR` · `Image Segmentation` · `Camera Calibration` · `NIR` · `Thermal Imaging` · `Point Cloud Processing`
+`Image Processing` · `3D Vision` · `Feature Extraction` · `Pattern Recognition` · `Object Detection` · `Object Tracking` · `OCR` · `Image Segmentation` · `Camera Calibration` · `NIR` · `Thermal Imaging` · `Point Cloud Processing` · `Computer Vision Pipelines`
 
-**Segmentation:**
-`Semantic Segmentation` · `Instance Segmentation` · `Panoptic Segmentation` · `Sparse Convolution`
-
-### 🤖 Robotics & Autonomous Systems
+### 🤖 Robotics, Sensors & Edge AI
 
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
 
-`Robotic Perception` · `Active Perception` · `Sensor Fusion` · `AMR` · `UAVs` · `Drone Robotics` · `Human-Robot Interaction` · `Robot Navigation` · `Manipulation` · `Assistive Robotics`
-
-### 📡 Sensors & Edge AI
-
-`LiDAR` · `Laser Range Finder` · `3D Cameras` · `RGB Cameras` · `NIR` · `Thermal Imaging` · `Sensor Fusion`
-
-**Edge & Deployment:**
-`NVIDIA Jetson` · `TensorRT` · `TFLite` · `ONNX` · `Quantization` · `Edge Computing` · `Real-time Inference`
+`Robotic Perception` · `Active Perception` · `Sensor Fusion` · `AMR` · `UAVs` · `Drone Robotics` · `Human-Robot Interaction` · `Robot Navigation` · `Manipulation` · `Assistive Robotics` · `LiDAR` · `Laser Range Finder` · `3D Cameras` · `RGB Cameras` · `NIR` · `Thermal Imaging` · `Sensor Fusion` · `NVIDIA Jetson` · `TensorRT` · `TFLite` · `ONNX` · `Quantization` · `Edge Computing` · `Real-time Inference`
 
 ### 🏭 Simulation & Digital Twins
 
@@ -75,7 +63,7 @@ My work spans **3D vision, deep learning, robotic perception, object detection &
 
 ### 📊 Data & Scientific Computing
 
-`NumPy` · `Pandas` · `SciPy` · `Matplotlib` · `Data Analytics` · `Computer Vision Pipelines`
+`NumPy` · `Pandas` · `SciPy` · `Matplotlib` · `Data Analytics`
 
 ---
 
