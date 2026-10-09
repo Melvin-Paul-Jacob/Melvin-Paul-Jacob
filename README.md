@@ -1,8 +1,6 @@
-<table> <tr> <td width="25%" align="center" valign="middle"> <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="180" alt="Hello World animation"/> </td> <td width="75%" valign="middle"> <h1>Hi there 👋<br/>I'm Melvin!</h1> <h3>Computer Vision & AI Engineer</h3> <p>Robotics · 3D Perception · Edge AI</p> </td> </tr> </table>
-
 # Hi there, I'm Melvin 👋
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="100" alt="Hello World animation" /> </p>
+<!-- <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="100" alt="Hello World animation" /> </p> -->
 
 <h3 align="center">Computer Vision & AI Engineer | Robotics | 3D Perception | Edge AI</h3>
 
