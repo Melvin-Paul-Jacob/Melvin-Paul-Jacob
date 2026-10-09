@@ -1,6 +1,12 @@
 # Hi there, I'm Melvin 👋
 
-### Computer Vision & AI Engineer | Robotics | 3D Perception | Edge AI
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="100" alt="Hello World animation" /> </p>
+
+<h3 align="center">Computer Vision & AI Engineer | Robotics | 3D Perception | Edge AI</h3>
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%" alt="Animated technology banner" /> </p>
+
+<p align="center"> <img align="right" alt="Machine learning animation" width="350" src="https://mobilemonitoringsolutions.com/wp-content/uploads/2018/09/mldepressiongif-300x179.gif" /> </p>
 
 I’m a **Computer Vision & AI Engineer** with ~5 years of experience building and deploying **real-time perception systems for robotics and industrial applications**.
 
