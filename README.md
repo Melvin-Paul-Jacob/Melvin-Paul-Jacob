@@ -8,6 +8,7 @@
 
 <p align="center"> <img align="right" alt="Machine learning animation" width="350" src="https://mobilemonitoringsolutions.com/wp-content/uploads/2018/09/mldepressiongif-300x179.gif" /> </p>
 
+
 I’m a **Computer Vision & AI Engineer** with ~5 years of experience building and deploying **real-time perception systems for robotics and industrial applications**.
 
 My work spans **3D vision, deep learning, robotic perception, object detection & segmentation, sensor fusion, and edge AI**, with a focus on taking research and ideas into reliable, production-ready systems.
@@ -22,7 +23,8 @@ My work spans **3D vision, deep learning, robotic perception, object detection &
 * ⚡ **Real-time & Edge AI**
 * 🏭 **Industrial Robotics & Automation**
 * 🧩 **Digital Twins & Simulation**
-
+* 
+<br clear="right"/>
 ---
 
 ## 🛠️ Tech Stack
