@@ -25,7 +25,6 @@ My work spans **3D vision, deep learning, robotic perception, object detection &
 * 🧩 **Digital Twins & Simulation**
 
 <br clear="right"/>
----
 
 ## 🛠️ Tech Stack
 
