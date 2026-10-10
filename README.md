@@ -45,7 +45,6 @@ My work spans **3D vision, deep learning, robotic perception, object detection &
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge\&logo=ultralytics\&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge\&logo=onnx\&logoColor=white)
 
@@ -54,9 +53,6 @@ My work spans **3D vision, deep learning, robotic perception, object detection &
 ### 👁️ Computer Vision
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge\&logo=scipy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=plotly\&logoColor=white)
 ![scikit-image](https://img.shields.io/badge/scikit--image-006699?style=for-the-badge\&logo=scikitimage\&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-8CAAE6?style=for-the-badge\&logo=python\&logoColor=white)
